@@ -1,1 +1,1 @@
-# RTU Artificial Intelligence course second work in OrangeDataMining.
+# RTU Artificial Intelligence course, second work in OrangeDataMining.
